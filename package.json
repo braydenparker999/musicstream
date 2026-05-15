@@ -1,0 +1,9 @@
+{
+  "name": "aura-yt-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.6",
+    "yt-search": "^2.10.4"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/stream.js": { "maxDuration": 30 }
+  }
+}
